@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm William</h1>
-<h3 align="center">AI Engineer | Machine Learning | NLP | Full-Stack Developer</h3>
+<h3 align="center">Full-Stack Engineer | AI / Machine Learning | Building Intelligent Products</h3>
 
 <p align="center">
-Building intelligent systems that turn data into real-world impact.
+I build scalable applications that combine modern web engineering with applied AI.
 </p>
 
 ---
@@ -10,11 +10,11 @@ Building intelligent systems that turn data into real-world impact.
 ![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ## 🚀 About Me
 
-- 🔬 AI Engineer focused on **Machine Learning, NLP, and Intelligent Systems**
-- 💡 Passionate about **building scalable AI products and developer tools**
-- 🧠 Interested in **LLMs, recommendation systems, and applied AI**
-- 🛠 Experienced in **Python, FastAPI, React, and ML pipelines**
-- 🌱 Currently exploring **LLM agents, AI infrastructure, and model optimization**
+- 💻 Full-Stack engineer experienced in **frontend, backend, and ML systems**
+- 🤖 Build **AI-powered products**, including NLP pipelines and intelligent platforms
+- ⚡ Focused on **scalable backend systems and clean developer architecture**
+- 🧠 Interested in **LLMs, recommendation systems, and applied machine learning**
+- 🌎 Passionate about building **real-world products that solve meaningful problems**
 
 ---
 
@@ -24,17 +24,17 @@ Building intelligent systems that turn data into real-world impact.
 
 Python · JavaScript · TypeScript · SQL
 
-**AI / ML**
+**Frontend**
 
-PyTorch · TensorFlow · HuggingFace · Scikit-learn · spaCy
+React · Next.js · TailwindCSS · HTML · CSS
 
 **Backend**
 
 FastAPI · Flask · Node.js · REST APIs · Microservices
 
-**Frontend**
+**AI / ML**
 
-React · Next.js · TailwindCSS
+PyTorch · HuggingFace · Scikit-learn · spaCy · NLP
 
 **Infrastructure**
 
@@ -42,16 +42,18 @@ Docker · Kubernetes · AWS · CI/CD
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 What I Build
 
-- 🤖 **AI Resume Parser** – NLP pipeline extracting structured candidate data  
-- 📊 **Candidate Matching Engine** – ML model improving job-candidate matching  
-- ⚡ **AI Recruiting Dashboard** – React + FastAPI system with AI scoring  
+- AI-powered platforms
+- Machine learning pipelines
+- Full-stack web applications
+- Scalable backend APIs
+- Developer tools and automation systems
 
 ---
 
 ## 🤝 Connect With Me
 
-- LinkedIn: [https://linkedin.com/in/YOURNAME](https://www.linkedin.com/in/william-meadows-4560773b5/)
+- LinkedIn: [https://linkedin.com/in/william-meadows-4560773b5/](https://www.linkedin.com/in/william-meadows-4560773b5/)
 - Email: meadowsw760@gmail.com
-- Portfolio: [https://yourwebsite.com](https://william-me.vercel.app/)
+- Portfolio: [https://william-me.vercel.app](https://william-me.vercel.app/)
