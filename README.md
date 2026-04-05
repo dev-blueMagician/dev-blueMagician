@@ -54,6 +54,6 @@ Docker · Kubernetes · AWS · CI/CD
 
 ## 🤝 Connect With Me
 
-- LinkedIn: [https://linkedin.com/in/william-meadows-4560773b5/](https://www.linkedin.com/in/william-meadows-4560773b5/)
+- LinkedIn: []()
 - Email: meadowsw760@gmail.com
-- Portfolio: [https://william-me.vercel.app](https://william-me.vercel.app/)
+- Portfolio: []()
