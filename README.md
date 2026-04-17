@@ -52,8 +52,3 @@ Docker · Kubernetes · AWS · CI/CD
 
 ---
 
-## 🤝 Connect With Me
-
-- LinkedIn: []()
-- Email: meadowsw760@gmail.com
-- Portfolio: []()
