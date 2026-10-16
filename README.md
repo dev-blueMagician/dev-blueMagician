@@ -10,8 +10,8 @@ I build scalable web platforms, distributed systems, and intelligent application
 ![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ## 🚀 About Me
 
-- 💻 Senior Full-Stack Engineer with **10+ years** of experience delivering modern web applications end-to-end  
-- ⚡ Strong across **frontend architecture, backend microservices, cloud infrastructure, and DevOps**
+- 💻 Senior AI and Full-Stack Engineer  
+- ⚡ Strong across **AI/ML engineering, data science, frontend architecture, backend microservices, cloud infrastructure, and DevOps**
 - 🤖 Hands-on experience integrating **LLMs, RAG pipelines, semantic search, chatbots, and workflow automation**
 - ☁️ Experienced with **AWS, Azure, GCP, Docker, Kubernetes, Terraform, CI/CD**
 - 📈 Focused on **performance optimization, scalability, clean architecture, and product impact**
@@ -57,12 +57,6 @@ LLM Integration · RAG Pipelines · Prompt Engineering · Vector Databases · NL
 - 🎯 Increased candidate completion rates by **22%** through frontend optimization  
 - 🤖 Reduced manual review workload by **60%** using AI automation tools
 
----
-
-## 🤝 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/ryan-cole-896b933b7
-- Email: ryco92511@outlook.com
 
 ---
 
